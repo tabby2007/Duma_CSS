@@ -1,0 +1,48 @@
+body{
+    background-color: brown;
+}
+/* text formatting styles */
+h1{
+    color: blue;
+    background-color: black;
+    letter-spacing: 20px;
+    word-spacing: 20px;
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-indent: 20px;
+    line-height: 2;
+}
+/* Box model */
+h2{
+    color: white;
+    background-color: aqua;
+    height: 400px;
+    width: 1000px;
+    /* Padding */
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    /* Margins */
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    /* Borders */
+    border-top: 10px double black;
+    border-right: 10px dotted red;
+    border-bottom: 10px groove black;
+    border-left: 10px solid green;
+}
+a{
+    color: beige;
+    background-color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+a:hover{
+    background-color: darkseagreen;
+}

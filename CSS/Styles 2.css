@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(241, 183, 202);
+}
+h2{
+    letter-spacing: 25px;
+    text-align: center;
+    line-height: 1;
+}
+p{
+    text-align: center;
+}
+/* Box model */
+h3{
+    color: white;
+    background-color: red;
+    height: 300px;
+    width: 900px;
+    /* Padding */
+    padding:70px 30px 50px 30px;
+    /* Margins */
+    margin: 50px 50px 30px 100px;
+    /* Borders */
+    border-top: 10px double black;
+    border-right: 10px solid yellowgreen;
+    border-bottom: 10px solid green;
+    border-left: 10px solid blue;
+}
+a{
+    color: white;
+    background-color: rgb(134, 39, 39);
+    padding: 10px;
+}
+a:hover{
+    background-color: rgb(59, 59, 97);
+}

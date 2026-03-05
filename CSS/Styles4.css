@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(44, 38, 38);
+}
+#d1{
+    height: 100px;
+    background-color: black;  
+}
+#d2{
+    background-color: white;
+    height: 20px;
+}
+#d3{
+    background-color: red;
+    height: 100px;
+}
+#d4{
+    background-color: green;
+    height: 100px;
+}
+img{
+    width: 230px;
+    height: 230px;
+    margin-left: 500px;
+    margin-bottom: -255px;
+}
+
+    

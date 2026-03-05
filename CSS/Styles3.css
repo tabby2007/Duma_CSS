@@ -1,0 +1,36 @@
+body{
+    background-image: url("../images/background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#para1{
+    color: blue;
+    background-color: aqua;
+    height: 100px;
+}
+#para2{
+    color: red;
+    background-color: aqua;
+    height: 100px;
+}
+#para3{
+    color: white;
+    background-color: black;
+    height: 100px;
+}
+.para4{
+    color: rgb(248, 233, 233);
+    background-color: blueviolet;
+    height: 100px;
+}
+/* styles for divs */
+#d1{
+    color: blue;
+    background-color: brown;
+    height: 100px;
+}
+#d2{
+    color: red;
+    background-color: black;
+    height: 100px;
+}
